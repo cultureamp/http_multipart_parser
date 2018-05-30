@@ -1,6 +1,6 @@
 # HTTP Multipart Parser
 
-[![Build Status](https://travis-ci.org/davelooi/http_multipart_parser.svg?branch=master)](https://travis-ci.org/davelooi/http_multipart_parser)
+[![Build Status](https://travis-ci.org/cultureamp/http_multipart_parser.svg?branch=master)](https://travis-ci.org/cultureamp/http_multipart_parser)
 
 Use this gem to parse multipart messages into coherent Ruby-flavoured pieces.
 
